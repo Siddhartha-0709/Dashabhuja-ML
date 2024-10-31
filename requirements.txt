@@ -1,8 +1,11 @@
 pandas==2.1.4
 numpy==1.24.3
 streamlit==1.30.0
-opencv-python-headless
-pillow
+opencv-python-headless==4.8.0.76 
+pillow==10.0.0                  
 google-auth==2.35.0
-mediapipe
+mediapipe                
 scikit-learn==1.2.2
+streamlit-webrtc==0.45.0
+aiortc==1.4.0                     
+
